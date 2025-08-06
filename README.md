@@ -1,5 +1,6 @@
 # Cleanliness-The-betterment-of-Green-Innovation
 Smart Dustbin
+
 Aim : Due To Urbanization, There Is A Tremendous 
 Increase In Waste Production. For Proper Waste 
 Management, The Government Has Installed Dustbins At 
@@ -15,7 +16,8 @@ However, This Helps In Maintaining The Environment Clean
 With The Help Of Technology. It Is A Sensor-Based Dustbin 
 So It Would Be Easy To Use For Any Age Group. Also, It Is 
 Cost-Effective So That Many Numbers Of People Can Get 
-The Benefit From It. 
+The Benefit From It.
+
 Materials :  
 1.    Arduino Uno 
 2.    Ultrasonic Sensor 
