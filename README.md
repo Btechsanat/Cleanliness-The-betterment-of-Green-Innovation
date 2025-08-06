@@ -27,6 +27,7 @@ Materials :
 8.    Adhesive 
 9.    Scissor 
 Software Used: – Arduino IDE
+
 Working principle :- 
 Here we Use two ultrasonic sensor one sensor is used for 
 detect the  objects and the another one is used for alart 
